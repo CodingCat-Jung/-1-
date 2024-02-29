@@ -1,0 +1,6 @@
+﻿  09-11.c
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 중간 레포트\알고리즘 중간 레포트\09-11.c(36,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 중간 레포트\알고리즘 중간 레포트\09-11.c(114,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 중간 레포트\알고리즘 중간 레포트\09-11.c(119,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 중간 레포트\알고리즘 중간 레포트\09-11.c(121,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  알고리즘 중간 레포트.vcxproj -> C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 중간 레포트\Debug\알고리즘 중간 레포트.exe
