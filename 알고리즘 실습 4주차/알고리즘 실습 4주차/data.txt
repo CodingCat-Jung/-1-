@@ -1,0 +1,13 @@
+i node 식물의마디
+i link 연결통로
+i apple 사과
+i banana 바나나
+i watermelon 수박
+i house 집
+p
+s apple
+d link
+p
+s house
+p
+q

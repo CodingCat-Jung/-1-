@@ -1,0 +1,15 @@
+﻿  1.c
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 4주차\알고리즘 실습 4주차\1.c(39,10): warning C4033: 'insert_node'은(는) 값을 반환해야 합니다.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 4주차\알고리즘 실습 4주차\1.c(53,23): warning C4033: 'insert_node'은(는) 값을 반환해야 합니다.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 4주차\알고리즘 실습 4주차\1.c(126,30): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 4주차\알고리즘 실습 4주차\1.c(129,18): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 4주차\알고리즘 실습 4주차\1.c(135,10): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 4주차\알고리즘 실습 4주차\1.c(195,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 4주차\알고리즘 실습 4주차\1.c(200,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 4주차\알고리즘 실습 4주차\1.c(205,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 4주차\알고리즘 실습 4주차\1.c(211,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 4주차\알고리즘 실습 4주차\1.c(212,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 4주차\알고리즘 실습 4주차\1.c(218,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 4주차\알고리즘 실습 4주차\1.c(219,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 4주차\알고리즘 실습 4주차\1.c(65): warning C4716: 'insert_node': 값을 반환해야 합니다.
+  알고리즘 실습 4주차.vcxproj -> C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 4주차\Debug\알고리즘 실습 4주차.exe
