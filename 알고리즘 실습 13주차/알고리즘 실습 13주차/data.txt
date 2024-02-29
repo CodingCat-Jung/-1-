@@ -1,0 +1,9 @@
+i happy 행복
+i right 오른쪽
+i home 집
+i car 차
+i key 열쇠
+i apple 사과
+i left 왼쪽
+s home
+s right

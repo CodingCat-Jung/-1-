@@ -1,0 +1,10 @@
+﻿  hash_dic2.c
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 14주차\알고리즘 실습 14주차\hash_dic2.c(103,23): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 14주차\알고리즘 실습 14주차\hash_dic2.c(129,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 14주차\알고리즘 실습 14주차\hash_dic2.c(133,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 14주차\알고리즘 실습 14주차\hash_dic2.c(134,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 14주차\알고리즘 실습 14주차\hash_dic2.c(139,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 14주차\알고리즘 실습 14주차\hash_dic2.c(140,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 14주차\알고리즘 실습 14주차\hash_dic2.c(145,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 14주차\알고리즘 실습 14주차\hash_dic2.c(146,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  알고리즘 실습 14주차.vcxproj -> C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 14주차\Debug\알고리즘 실습 14주차.exe
