@@ -1,0 +1,5 @@
+﻿  prim.c
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 7주차\알고리즘 실습 7주차\prim.c(70,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 7주차\알고리즘 실습 7주차\prim.c(78,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 7주차\알고리즘 실습 7주차\prim.c(96,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  알고리즘 실습 7주차.vcxproj -> C:\Users\SAMSUNG\Desktop\알고리즘\알고리즘 실습 7주차\Debug\알고리즘 실습 7주차.exe
